@@ -1,4 +1,6 @@
-Welcome to your new dbt project!
+# Azure Medallion Pipeline! 
+
+End-to-end data pipeline implementation using Azure Data Factory, Azure Databricks (PySpark), and dbt, following the Medallion Architecture (Bronze, Silver, Gold). It showcases how to ingest, transform, and model structured data using scalable cloud tools and modular transformation logic.
 
 ### Using the starter project
 
